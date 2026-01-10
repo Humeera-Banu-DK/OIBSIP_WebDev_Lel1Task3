@@ -61,5 +61,5 @@ logic, input handling, and UI design using core web technologies.
 ---
 
 ## 👩‍💻 Author
-Name: Humeera Banu D K  
+Name: D K Humeera Banu  
 Domain: Web Development
